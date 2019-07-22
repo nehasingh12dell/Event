@@ -63,7 +63,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#f7ed4a"
+              "color": "#ffffff"
             }
           },
           "_name": "header6",
