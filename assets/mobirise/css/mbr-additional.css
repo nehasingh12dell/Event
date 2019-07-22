@@ -1424,3 +1424,16 @@ body {
   padding-bottom: 90px;
   background-color: #b2ccd2;
 }
+.cid-rwYwzoFYQW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-rwYwzoFYQW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rwYwzoFYQW .video-block {
+    width: 100% !important;
+  }
+}
