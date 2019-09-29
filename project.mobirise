@@ -37,7 +37,9 @@
     "siteFonts": [],
     "uniqCompNum": 22,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-128x91.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
